@@ -1,6 +1,6 @@
 {
-    "name": "pruebagit",
-    "displayName": "pruebagit",
+    "name": "php-var-snippet",
+    "displayName": "$var Snippet",
     "description": "if you write `v` and select the choice, will show `$index` for you assigtment the variable | Works for HTML, PHP , JavaScript",
     "version": "0.1.6",
     "publisher": "rober19",
