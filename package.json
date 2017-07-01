@@ -2,7 +2,7 @@
     "name": "php-var-snippet",
     "displayName": "$var Snippet",
     "description": "if you write `v` and select the choice, will show `$index` for you assigtment the variable | Works for HTML, PHP , JavaScript",
-    "version": "0.1.6",
+    "version": "0.1.7",
     "publisher": "rober19",
     "icon": "images/logo.png",
     "engines": {
@@ -27,7 +27,7 @@
             }
         ]
     },
-        "repository": {
+    "repository": {
         "type": "git",
         "url": "https://github.com/Relaxboi/-var-snippet.git"
     },
