@@ -4,7 +4,7 @@
     "description": "if you write `v` and select the choice, will show `$index` for you assigtment the variable | Works for HTML, PHP , JavaScript",
     "version": "0.1.8",
     "publisher": "rober19",
-    "icon": "images/logo.png",
+    "icon": "https://github.com/Relaxboi/-var-snippet/blob/master/images/logo.png",
     "engines": {
         "vscode": "*"
     },
