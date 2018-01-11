@@ -8,6 +8,7 @@ $variable snippet | PHP | JavaScript | HTML
 [![NPM](https://img.shields.io/badge/licence-MIT-brightgreen.svg)](https://github.com/Rober19/var-snippet)
 [![NPM](https://img.shields.io/badge/Downloads-1.5K-brightgreen.svg)](https://marketplace.visualstudio.com/items?itemName=rober19.php-var-snippet)
 
+
 ==================================================
  if you write `v` and (<kbd>Ctrl</kbd>+<kbd>Space</kbd>) select the choice, will show `$index` for you assigtment the variable
  Works on HTML, PHP , JavaScript & TypeScript.
