@@ -1,0 +1,11 @@
+{
+
+ "variable": {
+        "prefix": "v",
+        "body": [
+            "$${1:index}"
+        ],
+        "description": "For Assignment"
+    }
+
+}

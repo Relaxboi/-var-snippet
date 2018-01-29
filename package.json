@@ -1,10 +1,10 @@
 {
     "name": "php-var-snippet",
     "displayName": "$var Snippet",
-    "description": "if you write `v` and select the choice, will show `$index` for you assigtment the variable | Works for HTML, PHP , JavaScript",
-    "version": "0.1.8",
+    "description": "if you write `v` and select the choice, will show `$index` for you assigtment the variable | Works for HTML, PHP , JavaScript and TypeScript",
+    "version": "0.2.0",
     "publisher": "rober19",
-    "icon": "https://github.com/Relaxboi/-var-snippet/blob/master/images/logo.png",
+    "icon": "images/logo.png",
     "engines": {
         "vscode": "*"
     },
@@ -24,12 +24,16 @@
             {
                 "language": "php",
                 "path": "snippets/php.json"
+            },
+            {
+                "language": "typescript",
+                "path": "snippets/typescript.json"
             }
         ]
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Relaxboi/-var-snippet.git"
+        "url": "https://github.com/rober19/-var-snippet.git"
     },
-    "homepage": "https://github.com/Relaxboi/-var-snippet/blob/master/README.md"
+    "homepage": "https://github.com/rober19/-var-snippet/blob/master/README.md"
 }
