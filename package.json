@@ -2,7 +2,7 @@
     "name": "php-var-snippet",
     "displayName": "$var Snippet",
     "description": "if you write `v` and select the choice, will show `$index` for you assigtment the variable | Works for HTML, PHP , JavaScript and TypeScript",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "license": "MIT",
     "publisher": "rober19",
     "icon": "images/logo.png",
