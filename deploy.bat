@@ -19,8 +19,7 @@ REM tambien en la fecha se puede usar el %date%
 call npm version patch -f
 FOR /F "tokens=* USEBACKQ" %%F IN (`jq -r ".token" "token.json"`) DO (
 SET var=%%F
-)
-ECHO 
+) 
 call vsce publish -p %var%
 git push ops master
 git push origin master
