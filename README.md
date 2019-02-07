@@ -17,5 +17,3 @@ $variable snippet | PHP | JavaScript | HTML
 Rober19 
 -   GitHub ([Rober19](https://github.com/rober19))  
 -   Twitter ([Rober19](https://twitter.com/relaxboi19)) 
-
-<img src="https://image.ibb.co/ez0YvF/EDEN_1.png" alt="HTML5 Icon" style="width:128px;height:128px;">
